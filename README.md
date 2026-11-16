@@ -7,6 +7,7 @@ A native macOS photo culling app for RAW + JPEG shooters.</p>
 
 <p align="center">
   <a href="https://github.com/Rzkykhrllh/pickture/releases/latest"><b>⬇︎ Download for macOS</b></a> ·
+  <a href="https://rzkykhrllh.github.io/pickture/"><b>🌐 Website</b></a> ·
   <a href="https://www.youtube.com/watch?v=Qk3aPS0QpDs"><b>▶︎ Watch the demo on YouTube</b></a> ·
   <a href="https://ko-fi.com/airu_"><b>☕ Support on Ko-fi</b></a>
 </p>
